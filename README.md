@@ -74,7 +74,7 @@ This repository highlights my academic projects from my Master’s program at Ge
 
 ### Mathematics and Computer Science Educator  
 **School Education Department, Punjab, Pakistan** | *Sep 2014 – Dec 2023*  
-- Delivered comprehensive mathematics and computer science education for grades 9–10 and 11-12 at School Education Department,Lahore Punjab,Pakistan.  
+- Delivered comprehensive mathematics and computer science education for grades 9–10  and 11-12 at School Education Departmrnt,Lahore,Punjab,Pakistan.  
 - Designed and taught curricula covering:  
   - **Mathematics**: Algebra, trigonometry, geometry (area, perimeters, angles), probability, number theory, fractions, decimals, and linear equations.  
   - **Computer Science**: Programming (C++, Python), algorithms (e.g., sorting, searching), data structures (e.g., arrays, lists, stacks), and basic database systems (e.g., SQL for attendance and grades).  
@@ -130,11 +130,11 @@ This repository highlights my academic projects from my Master’s program at Ge
 - **Twitter**: [twitter.com/lmranDogar.psf](https://twitter.com/lmranDogar.psf)  
 - **Email**: [imrandogarpsf86@gmail.com](mailto:imrandogarpsf86@gmail.com)  
 - **WhatsApp**: [+92 321 8866546](https://wa.me/+923218866546)  
-- **Resume**: [Download PDF]()  
+- **Resume**: [Download PDF](./Resume.pdf)  
 
 ---
 
 ## 🚀 Explore My Work
-Dive into the folders below to review my projects, practicals, and educational implementations. Each section includes a README with objectives, methodologies, and outcomes. Inspired by Göttingen’s legacy of 47 Nobel laureates and my engagement with quantum machine learning and topological data analysis, I strive to contribute meaningfully to mathematics and data science—feedback and collaboration are always welcome!
+Dive into the folders below to review my projects, practicals, and educational implementations. Each section includes a README with objectives, methodologies, and outcomes. With a strong foundation in **machine learning, deep learning in computer vision, and natural language processing**, complemented by my expertise in quantum machine learning and topological data analysis, I aim to create impactful solutions inspired by Göttingen’s legacy of 47 Nobel laureates. Feedback and collaboration are always welcome!
 
 *Last Updated: April 2025*
